@@ -1,4 +1,4 @@
-How to install
-php artisan migrate
-php artisan db:seed
+How to install <br />
+php artisan migrate <br />
+php artisan db:seed <br />
 Done
